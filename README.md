@@ -9,8 +9,7 @@ The application uses SQLite for data storage and provides an interactive dashboa
 ## 🚀 Live Demo
 
 🔗 **Live Demo:**  
-Coming soon
-
+🔗 **[Open Job Application Tracker](https://job-application-tracker-ey9nfuymc8fsa6hhdyylc7.streamlit.app/)
 ---
 
 ## 📌 Project Overview
